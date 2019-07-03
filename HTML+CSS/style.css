@@ -1,0 +1,64 @@
+#main_container{    
+    padding-left: 100px; 
+	padding-right: 100px; 
+    background: url('images/font.jpg');
+	background-size: 100%;
+}
+   
+/*Preferences for the header*/
+#header{
+	font-size:30px;
+	font-style:oblique;
+	background: silver;
+	text-align: center;
+}
+
+/*Preferences for person's image*/
+#avatar{
+	width:200px; 
+	height:150px;
+	border:  5px solid black; 
+	border-radius:8px;
+}
+
+/*Preferences for lists*/
+.em_elem {
+	font-size:20px;
+	background:silver;
+}
+
+.ul_elem{
+	font-size:18px;
+}
+
+/*Preferences for divisions*/
+#left_orientation_div{
+	font-size:20px;	
+	float: left; 
+    width: 50%;
+}
+
+#right_orientation_div{
+	font-size:20px;	
+	float: right; 
+    width: 50%;
+}
+
+/*Preferences for table's details*/
+#main_information{
+	font-size:18px;
+	background-color: #E7E4E4;
+	border-radius:10px;
+	margin: auto;
+	width:100%;
+}
+
+.td_block{
+		padding-right: 30px; 
+		padding-left: 250px; 
+}
+
+#head_block{
+	font-size:20px;
+	font-style:oblique;
+}
